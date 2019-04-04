@@ -1,0 +1,13 @@
+KPMstats\est_transmat
+KPMstats\mixgauss_init
+KPMstats\eigdec
+KPMtools\mk_stochastic
+KPMtools\normalise
+netlab3.3\gmm
+netlab3.3\gmminit
+netlab3.3\kmeansNetlab
+netlab3.3\dist2
+netlab3.3\ppca
+HMM\mhmm_em
+foptions
+_ZR\dhmm_em2
